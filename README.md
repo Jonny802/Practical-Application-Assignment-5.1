@@ -45,3 +45,36 @@ Additional behavioral and demographic patterns included:
 2. Download the project file `Practical_Assignment_5.1_Jonathan_O'Dea.ipynb` and `coupons.csv` csv locally
 3. The dataet should be located in /data locally
 4. Run cells top-to-bottom.
+
+
+**Grading Rubric**
+
+**Project Organization**
+· A READMe file with a summary of findings and a link to your Jupyter notebook
+· Jupyter notebook with headings and text appropriately formatted
+· No unnecessary files
+· Directories and files have appropriate names and locations
+
+**Syntax and Code Quality**
+· Libraries are imported and aliased correctly
+· Code does not contain errors
+· No long strings of code output
+· Demonstrates competency with pandas
+· Demonstrates competency with seaborn
+· Comments are used appropriately to explain code
+· Variables are sensible
+**Visualizations**
+
+· Appropriate plots for categorical and continuous variables are utilized
+· Plots contain human readable labels
+· Plots contain descriptive titles
+· Axes are legible
+· Subplots are used when appropriate
+· Plots are scaled appropriately for readability
+
+**Findings**
+· Clearly stated problem for specific coupon group
+· Visualizations that demonstrate exploring differences in those who accepted and rejected the coupon
+· Interpretation of descriptive and inferential statistics is correct and concise
+· The findings are clearly stated in their own section with actionable items highlighted
+· Next steps and recommendations
